@@ -1,0 +1,22 @@
+.container-register {
+  background: #ececec;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 30px;
+}
+
+.box-register {
+  width: 500px;
+  height: 405px;
+}
+
+.icon-register {
+  color: rgba(0, 0, 0, 0.25);
+}
+
+.btn-register {
+  float: right;
+}

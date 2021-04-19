@@ -1,0 +1,10 @@
+.title-establishment, .title-establishment-form {
+  text-align: center;
+  color: #4F4F4F !important;
+  margin-top: 10px;
+  margin-bottom: 20px !important;
+}
+
+.btn-establishment-form {
+  float: right;
+}
